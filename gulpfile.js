@@ -1,11 +1,4 @@
 ;ldfg;k;kg;dk;;dfkgb
-dsjflskl; b;kfgpogkerpgkbk[gkerkgesrk'gb'eskgb
-delete;rgkr;kgb;rkbgkgbgkb k b;;gbgkbgb 
-
-e;lg;e ;gkr;kgb; kg ;kg ;k;g ;kgb kgb;k
-;kgrgbpl]debugger;gfkg;fk
-
-fkg;dkglfdkd;gkflgkfkg;lkg;kgkfkg;flk
 
 // TM-GULP.JS-CRASH-COURSE  JAN15TUE2019
 
