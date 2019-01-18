@@ -1,3 +1,5 @@
+;ldfg;k;kg;dk;;dfkgb
+
 // TM-GULP.JS-CRASH-COURSE  JAN15TUE2019
 
 //TOP LEVEL FUNCTIONS
